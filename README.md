@@ -1,5 +1,5 @@
 # CSCC Mentor Project 2023-24
-A collaborative Machine Learning Project for CSCC Mentorship Program 2023-2024. In this project we will walk through several "real world" scenario of what it is like to build an ML Project as an Machine Learning Engineer. Major goals of the project include: 1) Code Collaboration, 2) Learning to work with Python and 3) walking through the steps of building an ML Application.
+A collaborative Machine Learning Project for CSCC Mentorship Program 2023-2024. In this project we will walk through several "real world" scenarios of what it is like to build an ML Project as an Machine Learning Engineer. Major goals of the project include: 1) Code Collaboration, 2) Learning to work with Python and 3) walking through the steps of building an ML Application.
 
 
 ## Learning Objectives
@@ -13,7 +13,7 @@ A collaborative Machine Learning Project for CSCC Mentorship Program 2023-2024. 
     - Setup an Environment
     - Work in a Notebook
 
-- Complete Steps in an "real" ML Project
+- Complete Steps in a "real" ML Project
     - Data Gathering
     - Data Labeling
     - Data Cleaning
