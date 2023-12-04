@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+numpy
+scikit-learn
+xgboost
+ipython
+beautifulsoup4
