@@ -25,6 +25,11 @@ A collaborative Machine Learning Project for CSCC Mentorship Program 2023-2024. 
 ## Project Overview
 The ML App will take some text as an input and then make an estimate on the sentiment of the text. We will be using reviews from Yelp and out ML model will guess if the review is positive, neutral or negative. 
 
+## Authors
+Margo Riordan [margoriordan](https://github.com/margoriordan)
+
+Weston Bassler [geekbass](https://github.com/geekbass)
+
 ## Case Study
 Can XGBoost be used to classify sentiment of text?
 
