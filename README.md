@@ -34,4 +34,4 @@ Weston Bassler [geekbass](https://github.com/geekbass)
 Can XGBoost be used to classify sentiment of text?
 
 ## Evaluation and Results
-ADD INFO HERE
+Using <a href="https://www.kaggle.com/datasets/ilhamfp31/yelp-review-dataset">this dataset</a> as ground truth, a comparison was made against the trained model. 402490 out of 560000 matches were found, evaluating to just under 72% accuracy. While it would be possible to try for more favorable results through retraining the model with adjusted hyperperameters, results are expected to remain relatively similar. XGBoost may not be the best fit for sentiment analysis of text as the model does not consider overall context in the same fashion as deep learning can.
